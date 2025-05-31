@@ -22,10 +22,7 @@ export const metadata: Metadata = {
     "bow copy and paste",
     "Emoji copying",
     "🎀 Emoji",
-    "Free Bow Emoji",
     "Copy and paste Emoji",
-    "Emoji symbols",
-    "Colorful emojis"
   ],
   icons: {
     icon: '/favicon.svg',
