@@ -27,6 +27,40 @@ export const metadata: Metadata = {
   icons: {
     icon: '/favicon.svg',
   },
+  openGraph: {
+    title: "Copy Bow Emoji 🎀",
+    description: "Copy the Cute Bow Emoji 🎀 !",
+    url: "https://copybowemoji.com", // 请替换为您的实际域名
+    siteName: "Copy Bow Emoji",
+    images: [
+      {
+        url: "/og-image.png", // 您需要创建这个图片
+        width: 1200,
+        height: 630,
+        alt: "Copy Bow Emoji 🎀",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Copy Bow Emoji 🎀",
+    description: "Copy the Cute Bow Emoji 🎀 !",
+    images: ["/og-image.png"], // 您需要创建这个图片
+    creator: "@yuhanyang123", // 请替换为您的Twitter用户名
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
+  },
 };
 
 export default function RootLayout({
