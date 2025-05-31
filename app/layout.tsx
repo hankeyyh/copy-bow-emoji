@@ -19,6 +19,7 @@ export const metadata: Metadata = {
     "Bow Emoji",
     "Copy Bow Emoji", 
     "Copy Paste Bow Emoji",
+    "bow copy and paste",
     "Emoji copying",
     "🎀 Emoji",
     "Free Bow Emoji",
