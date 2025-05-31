@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Copy Bow Emoji 🎀",
-    description: "Copy the Cute Bow Emoji 🎀 !",
+    description: "Copy the Cute Bow Emoji!",
     url: "https://copybowemoji.com", // 请替换为您的实际域名
     siteName: "Copy Bow Emoji",
     images: [
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Copy Bow Emoji 🎀",
-    description: "Copy the Cute Bow Emoji 🎀 !",
+    description: "Copy the Cute Bow Emoji!",
     images: ["/og-image.png"], // 您需要创建这个图片
     creator: "@yuhanyang123", // 请替换为您的Twitter用户名
   },
@@ -60,6 +60,9 @@ export const metadata: Metadata = {
       "max-image-preview": "large",
       "max-snippet": -1,
     },
+  },
+  other: {
+    'fb:app_id': '566658096180103', // 临时使用的示例App ID
   },
 };
 
