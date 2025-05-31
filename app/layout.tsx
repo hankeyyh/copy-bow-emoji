@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Copy Bow Emoji",
   description: "Copy the Bow Emoji",
+  icons: {
+    icon: '/favicon.svg',
+  },
 };
 
 export default function RootLayout({
