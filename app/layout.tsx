@@ -15,6 +15,17 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Copy Bow Emoji",
   description: "Copy the Bow Emoji",
+  keywords: [
+    "Bow Emoji",
+    "Copy Bow Emoji", 
+    "Copy Paste Bow Emoji",
+    "Emoji copying",
+    "🎀 Emoji",
+    "Free Bow Emoji",
+    "Copy and paste Emoji",
+    "Emoji symbols",
+    "Colorful emojis"
+  ],
   icons: {
     icon: '/favicon.svg',
   },
